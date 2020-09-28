@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "360982480534",
+    "firebase_url": "https://pmcivilengineer-2788c.firebaseio.com",
+    "project_id": "pmcivilengineer-2788c",
+    "storage_bucket": "pmcivilengineer-2788c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360982480534:android:16d88f43d9ae79979e64b7",
+        "android_client_info": {
+          "package_name": "construction.civilengineer.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360982480534-rtouv3q2nul2iuv661aa54v6hm8q08cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "construction.civilengineer.io",
+            "certificate_hash": "dcaae46b47881afc4e45ee595675fd230bdfb77b"
+          }
+        },
+        {
+          "client_id": "360982480534-vvrc87249v5qvo8q3nir079r6gj1ic0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "construction.civilengineer.io",
+            "certificate_hash": "d746c72dc7638646cff18e0215205cf5644eb848"
+          }
+        },
+        {
+          "client_id": "360982480534-bb8tl6qu71fn2d26u4iipt289om792gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "construction.civilengineer.io",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBpRTX5Yq3aYO0K0MI4wzdtTaQMd47yBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360982480534-8dprjk036iristcga5sm69sgaj9thnim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360982480534:android:d7f9017dbd8be66b9e64b7",
+        "android_client_info": {
+          "package_name": "io.civilengineer.pm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360982480534-5gnhufuccde78m2scc4f1i2v7406du3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.civilengineer.pm",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "360982480534-6emd15b68to1veh925f48vpmk1o17efv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.civilengineer.pm",
+            "certificate_hash": "fb70e4069629d02fcf6ee44041f45f9b700c9dd6"
+          }
+        },
+        {
+          "client_id": "360982480534-r57hdrbksmc9k73jb8thjvf0090c8vdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.civilengineer.pm",
+            "certificate_hash": "e5b06a625c6d55bca13caef7d667b0e9c2142697"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBpRTX5Yq3aYO0K0MI4wzdtTaQMd47yBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360982480534-8dprjk036iristcga5sm69sgaj9thnim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
